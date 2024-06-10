@@ -5,6 +5,6 @@
     "lefthook": "^1.6.15"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "lefthook install"
   }
 }
